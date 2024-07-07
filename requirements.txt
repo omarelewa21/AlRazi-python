@@ -1,0 +1,4 @@
+Flask
+pydicom
+pillow
+flask_restful
