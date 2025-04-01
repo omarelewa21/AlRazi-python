@@ -2,3 +2,5 @@ Flask
 pydicom
 pillow
 flask_restful
+opencv-python
+numpy
