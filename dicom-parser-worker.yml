@@ -1,0 +1,5 @@
+apps:
+  - name: dicom-parser-worker
+    script: "flask"
+    args: "--app main run"
+    interpreter: "none"
